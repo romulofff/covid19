@@ -10,3 +10,5 @@ You can find the original dataset at this [link](https://www.kaggle.com/rafaelds
 **Deaths by State**:![Deaths by state](./figures/deaths-per-state.png)
 
 **Deaths by city in Ceará (top 20):**![Deaths by city in Ceará](./figures/deaths-ceara.png)
+
+**Total deaths per day in Fortaleza**![Total per day Fortaleza](./figures/deaths-fortaleza.png)
