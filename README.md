@@ -5,8 +5,8 @@
 
 You can find the original dataset at this [link](https://www.kaggle.com/rafaelds/covid19-brasilio).
 
--
+
 ### Some graphics made from this data:
 **Deaths by State**:![Deaths by state](./figures/deaths-per-state.png)
 
-**Deaths by **
+**Deaths by city in Ceará (top 20):**![Deaths by city in Ceará](./figures/deaths-ceara.png)
