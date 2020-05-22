@@ -1,6 +1,6 @@
 # Covid 19 Data Analysis from Brasil.io
 
-#### This is a personal project where I tried to create an analysis of Brasil.io Covid-19 dataset as of 20/05/2020
+#### This is a personal project where I tried to create an analysis of Brasil.io Covid-19 dataset as of 18/05/2020
 ---
 
 ### DISCLAIMER: data may vary from official fonts because as the results of tests are released, past data may be updated with new information
